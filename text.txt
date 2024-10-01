@@ -1,2 +1,5 @@
 hello my new file
+#conflict resolved
 update from local repo
+file updates from the remote repo
+
